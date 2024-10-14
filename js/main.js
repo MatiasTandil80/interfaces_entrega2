@@ -24,7 +24,7 @@ window.onload = function() {
             
                 setTimeout(function() {
                     // Cambia a la URL de la nueva página
-                    window.location.href = '../WEB_ATARI_3/index.html'; 
+                    window.location.href = 'index.html'; 
                     
                 }, 2500); // Tiempo en milisegundos que dura el logo hasta que
                         //se redirecciona al home (segundos)
